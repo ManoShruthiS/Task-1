@@ -49,7 +49,7 @@ Clean and preprocess the Titanic dataset to make it suitable for machine learnin
 ## 💡 How to Run
 
 1. Clone this repo or download the files.
-2. Open `Titanic_Data_Cleaning.ipynb` in Jupyter Notebook or VSCode.
+2. Open `AIML T-1.ipynb` in Jupyter Notebook or VSCode.
 3. Run the notebook step-by-step to see preprocessing in action.
 
 ## 🔗 Dataset Source
