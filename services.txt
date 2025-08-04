@@ -1,0 +1,8 @@
+10.189.183.126
+- Port 53: DNS (Domain Name System)
+
+10.189.183.80
+- Port 135: Microsoft RPC (Remote Procedure Call)
+- Port 139: NetBIOS Session Service
+- Port 445: Microsoft Directory Services (SMB/File Sharing)
+- Port 8090: Possibly Jenkins, Tomcat, or custom web service

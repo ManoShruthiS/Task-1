@@ -1,0 +1,8 @@
+10.189.183.126 - Port 53 (DNS):
+If publicly accessible, it can be exploited for DNS amplification attacks. Best practice is to restrict access to internal use only.
+
+10.189.183.80 - Ports 135, 139, 445:
+These are vulnerable ports often exploited by malware and ransomware (e.g., WannaCry). If not needed, they should be disabled or protected using a firewall.
+
+10.189.183.80 - Port 8090:
+This port often runs development tools (like Jenkins). If exposed to a network without proper security, it could allow unauthorized access or remote code execution.
